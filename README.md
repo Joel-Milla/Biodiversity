@@ -4,16 +4,16 @@ This project is part of an introductory python course focused on learning about 
 
 ## Features
 
-- Clean the data and make the data reliable.
-- Use the data to show plots and research relation between animals in national parks.
+- Cleans the data to ensure reliability.
+- Utilizes data visualization techniques to find a visual relation between animals in national parks.
 
 ## Setup and installation
-**Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the documentation.
+**Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the [documentation](https://jupyter.org).
 
 To set up and show the notebook locally, follow these steps:
 1. Run the following command in your terminal to clone the project repository:
 ```shell
-git clone https://github.com/Joel-Milla/Biodiversity.git
+git clone https://github.com/Joel-Milla/Life-Expectancy-and-GDP.git
 ```
 2. Navigate to the cloned project directory and launch Jupyter Notebook to access the .ipynb files.
 3. Run cells sequentially using `Shift + Enter`.
