@@ -8,6 +8,8 @@ This project is part of an introductory python course focused on learning about 
 - Utilizes data visualization techniques to find a visual relation between animals in national parks.
 
 ## Setup and installation
+You can see the Jupyter Notebook [here](StreetEasy%20Model.ipynb) or can install it locally using the next steps:
+
 **Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the [documentation](https://jupyter.org).
 
 To set up and show the notebook locally, follow these steps:
